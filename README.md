@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on: Diabetes Prediction System<br>Looking to collaborate on: Any machine learning project<br>I am currently learning: ML algorithms, their mathematical foundations, and TensorFlow<br>Ask me about: Pandas, NumPy, Matplotlib, Python, or any ML-related topic<br>Fun fact: I love to deep dive into ML concepts
+I am currently working on: Diabetes Prediction System<br>Looking to collaborate on: Any machine learning project / GEN AI<br>I am currently learning: ML algorithms, their mathematical foundations, and TensorFlow<br>Ask me about: Pandas, NumPy, Matplotlib, Python, or any ML-related topic<br>Fun fact: I love to deep dive into ML concepts and GEN AI
 
 
 ## 🌐 Socials:

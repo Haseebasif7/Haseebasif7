@@ -1,9 +1,9 @@
 <h1 align="center">Hello Devs 👀, I am Haseeb Asif</h1>
-<h3 align="center">a passionate Software Engineer, who stays most of the time in the his dorm room and trying to make next Facebook for the world</h3>
+<h3 align="center">A passionate AI enthusiast who loves to build in public.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haseebasif7&theme=onestar" alt="SameerVers3" /></a> </p>
 
-- 🔭 I’m currently working on **Wiz Work**
+- 🔭 I’m currently working on **GENAI**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-asif)

@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Discord%20API-%7289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord API" height="23"/>
   <img src="https://img.shields.io/badge/FAISS-%23000000.svg?style=flat&logo=facebook&logoColor=white" alt="FAISS" height="23"/>
   <img src="https://img.shields.io/badge/Chroma_DB-%23F7DF1C.svg?style=flat&logo=python&logoColor=black" alt="Chroma DB" height="23"/>
-  <img src="https://img.shields.io/badge/Pinecone-0061F2?style=flat&logo=pinecone&logoColor=white" alt="Pinecone" height="23"/>
+  <img src="https://img.shields.io/badge/Pinecone-Database-0061F2?style=flat&logo=pinecone&logoColor=white" alt="Pinecone Database" height="23"/>
 
 </p>  
 

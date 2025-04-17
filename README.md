@@ -9,51 +9,60 @@
   </a>
 </div>
 
+<div align="left">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey there! I'm <span style="color: #7B68EE">Haseeb Asif</span>
+  </h1>
+</div>
 
-<h2> Hi👋, I am Haseeb Asif </h2>
+<div align="left">
   <a href="https://drive.google.com/file/d/1JQDDLJNzSfM0Jlpm909IYACaCvJwUPh1/view?usp=sharing">
-    <img
-      src="https://img.shields.io/badge/Resume--brightgreen?style=flat-square&logo=standardresume&labelColor=healthiness"
-      alt="Resume"
-    />
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://haseebportfolio-flame.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/Portfolio--white?style=flat-square&logo=vercel&labelColor=black"
-    alt="Portfolio"
-  />
-<a href="https://www.linkedin.com/in/haseeb-asif-4400212a0/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin&labelColor=0A66C2"
-    alt="LinkedIn"
-  />
-</a>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/haseeb-asif-4400212a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
   <a href="https://www.kaggle.com/mhaseebasif">
-  <img
-    src="https://img.shields.io/badge/Kaggle--white?style=flat-square&logo=kaggle&labelColor=20BEFF"
-    alt="Kaggle"
-  />
-</a>
+    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
+  </a>
+</div>
 
+<br>
 
-- A passionate computer science undergrad seeking to be a good programmer!
-- Enthusiast in Machine Learning and Deep Learning
-- Loves to Automate Stuff
+<div align="left">
+  <p align="left" style="font-size: 16px;">
+    <strong>🎓 A passionate Computer Science undergrad crafting elegant solutions through code</strong><br>
+    <strong>🤖 Currently Learning Self Driving Cars Perception </strong><br>
+    <strong>🤖 Diving deep into Machine Learning and Deep Learning innovations</strong><br>
+  </p>
+</div>
 
 <a>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=haseebasif7&show_icons=true&theme=dark"/>
 </a>
 
-<br>
 
-
-
-<div align="center">
+<div align="center" style="margin-top: 50px;">
   <p align="center">
     <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebasif7&theme=dark" alt="GitHub Streak Stats - haseebasif7" />
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebasif7&layout=compact&theme=dark&langs_count=8" alt="Top Languages - haseebasif7" />
   </p>
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

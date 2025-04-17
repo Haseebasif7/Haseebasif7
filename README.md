@@ -1,76 +1,113 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Haseeb+Asif;Looking+to+Contribute!" alt="Typing SVG" />
+<div align="left">
+  <a href="https://app.daily.dev/haseebasif" target="_blank">
+    <img
+      width="300"
+      height="400"
+      align="right"
+      src="https://github.com/Haseebasif7/Haseebasif7/blob/main/devcard.png" alt="Haseeb's Dev Card"
+    />
   </a>
 </div>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haseebasif7&theme=nord&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
+<h2> Hi👋, I am Haseeb Asif </h2>
+  <a href="https://drive.google.com/file/d/1JQDDLJNzSfM0Jlpm909IYACaCvJwUPh1/view?usp=sharing">
+    <img
+      src="https://img.shields.io/badge/Resume--brightgreen?style=flat-square&logo=standardresume&labelColor=healthiness"
+      alt="Resume"
+    />
+  </a>
+  <a href="https://haseebportfolio-flame.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio--white?style=flat-square&logo=vercel&labelColor=black"
+    alt="Portfolio"
+  />
+<a href="https://www.linkedin.com/in/haseeb-asif-4400212a0/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin&labelColor=0A66C2"
+    alt="LinkedIn"
+  />
+</a>
+  <a href="https://www.kaggle.com/mhaseebasif">
+  <img
+    src="https://img.shields.io/badge/Kaggle--white?style=flat-square&logo=kaggle&labelColor=20BEFF"
+    alt="Kaggle"
+  />
+</a>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Currently+learning+DL" alt="Typing SVG" />
-</h2>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/haseeb-asif" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%231A1B27.svg?style=for-the-badge&logo=linkedin&logoColor=A9FEF7" alt="LinkedIn"/></a>
-</p>
+- A passionate computer science undergrad seeking to be a good programmer!
+- Enthusiast in Machine Learning and Deep Learning
+- Loves to Automate Stuff
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%231A1B27.svg?style=for-the-badge&logo=c&logoColor=A9FEF7" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%231A1B27.svg?style=for-the-badge&logo=c%2B%2B&logoColor=A9FEF7" alt="C++"/>
-  <img src="https://img.shields.io/badge/python-%231A1B27.svg?style=for-the-badge&logo=python&logoColor=A9FEF7" alt="Python"/>
-  <img src="https://img.shields.io/badge/LangChain-%231A1B27.svg?style=for-the-badge&logo=chainlink&logoColor=A9FEF7" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/pandas-%231A1B27.svg?style=for-the-badge&logo=pandas&logoColor=A9FEF7" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/numpy-%231A1B27.svg?style=for-the-badge&logo=numpy&logoColor=A9FEF7" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%231A1B27.svg?style=for-the-badge&logo=scikit-learn&logoColor=A9FEF7" alt="Scikit Learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%231A1B27.svg?style=for-the-badge&logo=Matplotlib&logoColor=A9FEF7" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-%231A1B27.svg?style=for-the-badge&logo=Seaborn&logoColor=A9FEF7" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Streamlit-%231A1B27.svg?style=for-the-badge&logo=Streamlit&logoColor=A9FEF7" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%231A1B27.svg?style=for-the-badge&logo=visual-studio-code&logoColor=A9FEF7" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/git-%231A1B27.svg?style=for-the-badge&logo=git&logoColor=A9FEF7" alt="Git"/>
-  <img src="https://img.shields.io/badge/GroqCloud-%231A1B27.svg?style=for-the-badge&logo=cloud&logoColor=A9FEF7" alt="GroqCloud"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-%231A1B27.svg?style=for-the-badge&logo=huggingface&logoColor=A9FEF7" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/gTTS-%231A1B27.svg?style=for-the-badge&logo=google&logoColor=A9FEF7" alt="Google Text-to-Speech"/>
-  <img src="https://img.shields.io/badge/Discord.py-%231A1B27.svg?style=for-the-badge&logo=discord&logoColor=A9FEF7" alt="Discord.py"/>
-  <img src="https://img.shields.io/badge/Discord%20API-%231A1B27.svg?style=for-the-badge&logo=discord&logoColor=A9FEF7" alt="Discord API"/>
-  <img src="https://img.shields.io/badge/FAISS-%231A1B27.svg?style=for-the-badge&logo=facebook&logoColor=A9FEF7" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Chroma_DB-%231A1B27.svg?style=for-the-badge&logoColor=A9FEF7" alt="Chroma DB"/>
-  <img src="https://img.shields.io/badge/Pinecone-%231A1B27.svg?style=for-the-badge&logoColor=A9FEF7" alt="Pinecone"/>
-</p>
+<a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=haseebasif7&show_icons=true&theme=dark"/>
+</a>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decoration">
-</p>
+<br>
+
+
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebasif7&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A9FEF7&text_color=A9FEF7&icon_color=A9FEF7&langs_count=8&layout=compact&custom_title=Top%20Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haseebasif7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A9FEF7&text_color=A9FEF7&icon_color=A9FEF7" />
+  <p align="center">
+    <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebasif7&theme=dark" alt="GitHub Streak Stats - haseebasif7" />
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebasif7&layout=compact&theme=dark&langs_count=8" alt="Top Languages - haseebasif7" />
+  </p>
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Haseebasif7&theme=tokyonight&hide_border=true&background=1a1b27&stroke=A9FEF7&ring=A9FEF7&fire=A9FEF7&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=A9FEF7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=haseebasif7&theme=darkhub&row=1" alt="haseebasif7"/>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decoration">
-</p>
-
-<h3 align="center">Contribution Statistics:</h3>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haseebasif7&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haseebasif7&theme=tokyonight" />
-</div>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haseebasif7&theme=tokyonight" />
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decoration"/>
-</p>
+<h3 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h3>
 
-<h2 align="center">Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Haseebasif7&custom_title=Haseeb%20Asif's%20Contribution%20Graph&bg_color=1a1b27&color=A9FEF7&line=A9FEF7&point=A9FEF7&area=true&hide_border=true" alt="Haseeb Asif's GitHub Activity Graph"/>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![Discord.py](https://img.shields.io/badge/discord.py-%237289DA.svg?style=flat&logo=discord&logoColor=white)
+![Pinecone](https://img.shields.io/badge/pinecone-%2300BFA6.svg?style=flat&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23000000.svg?style=flat&logo=buffer&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%23000000.svg?style=flat&logo=search&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23121011.svg?style=flat&logo=LangChain&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%234ea94b.svg?style=flat&logo=selenium&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23000000.svg?style=flat&logo=mlflow&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-%23121011.svg?style=flat&logo=protocols&logoColor=white)
+![CursorAI](https://img.shields.io/badge/CursorAI-%23000000.svg?style=flat&logo=cursor&logoColor=white)
+![V0](https://img.shields.io/badge/V0-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HuggingFace%20Spaces-%23FFD21F.svg?style=flat&logo=huggingface&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%236E6EED.svg?style=flat&logo=obsidian&logoColor=white)
+ 
+
+</p>
+<h3 align="center"><em>Let's connect around the web</em></h3>
+<p align="center">
+  <a href="https://www.kaggle.com/mhaseebasif" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mhaseebasif" height="30" width="40" />
+  </a>
+  <a href="https://discord.com/users/haseebloll" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="haseebloll" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/haseeb-asif-4400212a0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseeb asif" height="30" width="40" />
+  </a>
+  <a href="https://app.daily.dev/haseebasif" target="_blank">
+    <img src="https://img.shields.io/badge/Daily.dev-0A0A0A?style=flat&logo=daily.dev&logoColor=white" alt="daily.dev" height="30" />
+  </a>
+</p>  

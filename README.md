@@ -17,8 +17,8 @@
 </div>
 
 <div align="left">
-  <a href="https://drive.google.com/file/d/1JQDDLJNzSfM0Jlpm909IYACaCvJwUPh1/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  <a href="https://drive.google.com/file/d/1u-TpGiTWqp0AC8fKgXNVjFFMpGW76Jym/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/>
   </a>
   <a href="https://haseebportfolio-flame.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>

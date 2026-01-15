@@ -36,8 +36,7 @@
 <div align="left">
   <p align="left" style="font-size: 16px;">
     <strong>🎓 A passionate Computer Science undergrad crafting elegant solutions through code</strong><br>
-    <strong>🤖 Currently Learning Reinforcement Learning </strong><br>
-    <strong>🤖 Diving deep into Machine Learning and Deep Learning innovations</strong><br>
+    <strong>🤖 Currently Deep Diving into LLM's Post Training </strong><br>
   </p>
 </div>
 
